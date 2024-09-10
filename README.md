@@ -4,6 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 Начинающий Тестировщик 🎓
+- Закончил технический университет по специальности Инженер-программист
 - Длительное время работал в сфере ресторанного бизнеса. Большой опыт работы в управлении ресторанами на позиции директора, включая работу с финансами и операционную деаятельность
 - Имеется отличный опыт в управлении персоналом и командообразовании
 - Большой опыт в контактах с контрагентами, знаю всё про этикет общения на переговорах
@@ -16,9 +17,6 @@
     <a href="https://t.me/m_markelov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href=`m.markelov73@yandex.ru` target="_blank">
-      <img src="https://seeklogo.com/images/Y/yandex-mail-logo-0EB68B8C5F-seeklogo.com.png" width="40" height="40" alt="yandex_mail" />
-    </a>
   </div>
   
 ---
@@ -27,9 +25,8 @@
 <div>
   <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" title="intelij" alt="intelij" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   </div>
 
@@ -37,10 +34,12 @@
 ### ✏️ Языки программирования:
 
 <div>
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" title="github" alt="github" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" title="java" alt="java" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" title="php" alt="php" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" title="html" alt="html" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" title="css" alt="css" width="40" height="40"/>&nbsp
   </div>
 
 ---
