@@ -4,10 +4,9 @@
 
 ### 👨‍💻 Обо мне:
 Начинающий Тестировщик 🎓
-- Закончил технический университет по специальности Инженер-программист
+- Закончил технический ВУЗ по специальности Инженер-программист
 - Длительное время работал в сфере ресторанного бизнеса. Большой опыт работы в управлении ресторанами на позиции директора, включая работу с финансами и операционную деаятельность
 - Имеется отличный опыт в управлении персоналом и командообразовании
-- Большой опыт в контактах с контрагентами, знаю всё про этикет общения на переговорах
 - Хорошо говорю по-английски, развит весьма внушительный словарный запас благодаря чтению книг и просмотру любимых фильмов на языке оригинала
 
 ---
@@ -23,15 +22,16 @@
 ### ✏️ Работа с кодом:
 
 <div>
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" title="github" alt="github" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" title="intelij" alt="intelij" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   </div>
 
 ---
-### ✏️ Языки программирования:
+### 💎 Языки программирования:
 
 <div>
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="python" alt="python" width="40" height="40"/>&nbsp
