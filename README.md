@@ -39,7 +39,7 @@
   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" title="php" alt="php" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" title="html" alt="html" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="[https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png)" title="css" alt="css" width="40" height="40"/>&nbsp
   </div>
 
 ---
@@ -79,6 +79,8 @@
 ### 💾 Работа с данными:
 
 <div>
+  <img src="https://icons-for-free.com/iff/png/256/Bitrix24-1329545814448354354.png" title="Bitrix24" alt="B24" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/1/1C-Betrix-logo-42C64BCDF9-seeklogo.com.png" title="1C-Bitrix" alt="1C-Bitrix" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
